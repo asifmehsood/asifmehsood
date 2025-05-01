@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js, React.js, mongodb**
 
-- 👨‍💻 All of my projects are available at [https://github.com/asifmehsood](https://github.com/asifmehsood)
+- 👨‍💻 My LinkedIn profile [www.linkedin.com/in/muhammad-asif-428220295](www.linkedin.com/in/muhammad-asif-428220295)
 
 - 📫 How to reach me **asifmehsood2233@gmail.com**
 
